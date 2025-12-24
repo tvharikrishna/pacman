@@ -1,0 +1,39 @@
+Default Prim Exists
+
+Default Prim Is Xform
+
+Single Root Prim
+
+Single Mesh Only
+
+Mesh Under Xform
+
+Identity Transform
+
+Scale Is 1,1,1
+
+Units Are Meters
+
+Consistent Pivot Origin
+
+Bounding Box ≤ 185 mm
+
+No Physics APIs Applied
+
+No Collision APIs Applied
+
+No Materials or Textures
+
+No Time Samples / Animation
+
+Valid Mesh Topology
+
+Normals Present
+
+Stable Prim Naming
+
+No Extra Prims
+
+No References or Payloads
+
+No Variant Sets
